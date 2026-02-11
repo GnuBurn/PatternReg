@@ -1,6 +1,13 @@
 __pycache__/
 *.py[cod]
 
+**/anaconda_projects/**
+
 **/.ipynb_checkpoints/
 **/.virtual_documents/
+
+**/facedata_mat/**
+**/facedata.mat
+
+
 
